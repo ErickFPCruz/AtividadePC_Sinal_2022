@@ -15,7 +15,7 @@ if (numeroPositivo)
 {
     Console.WriteLine("Positivo!");
 }
-if(Zero)
+if (Zero)
 {
     Console.WriteLine("Zero!");
 }
